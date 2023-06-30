@@ -1,4 +1,4 @@
-# Spam-mail-predictor-
+#  Spam-mail-predictor-
 spam mail prediction using Machine learning model.
 Abstract:- The use of the internet is increasing day by
 day, and the spammers who consistently try to spam
